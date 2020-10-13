@@ -1,0 +1,6 @@
+NUMBER_OF_WORKERS = 5
+REQUESTS_PER_SEC = 20
+HTTP_REQUEST_TIMEOUT = 1.5
+RATE_LIMIT_INTERVAL = 1.0
+RANDOM_WIKI_PAGE_URL = 'https://en.wikipedia.org/wiki/Special:Random'
+KEYWORDS_FILE_PATH = 'keywords.txt'
